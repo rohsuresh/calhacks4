@@ -1,0 +1,17 @@
+html, body {
+  background-color: white;
+  height: 100%;
+  margin: 0px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sidebar {
+  background-color: chocolate;
+  width: 20%;
+  height: 100%;
+  text-align: center;
+}
+

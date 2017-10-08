@@ -23,13 +23,6 @@ input {
   text-align: left;
 }
 
-.sidebar {
-  background-color: chocolate;
-  width: 20%;
-  height: 100%;
-  text-align: center;
-}
-
 .header {
   position: fixed;
   padding: 20px;
